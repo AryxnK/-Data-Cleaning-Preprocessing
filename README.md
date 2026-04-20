@@ -77,6 +77,11 @@ To transform raw, unstructured data into a clean and usable format suitable for 
 * Scaled features for better model performance
 * Removed outliers to improve data quality
 
+  <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/6b78cddb-44f8-40b4-ba3c-09beef058ae5" />
+
+  <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/7acba3e6-1b0c-49e1-960c-d203f067d870" />
+
+
 ---
 
 ## 📈 Output
